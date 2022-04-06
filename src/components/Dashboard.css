@@ -1,0 +1,9 @@
+.appbar{
+    
+    background-color: rgb(57, 99, 70);
+    color: white;
+}
+
+.children{
+    display: flex;
+}
